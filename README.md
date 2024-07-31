@@ -18,4 +18,20 @@ The Food Recipe App Mobile project is built using the following technologies:
 ## Getting Started 🏁🚀
 To set up the Food Recipe App Mobile project locally, follow these steps:
 
-1. **Clone the Repository**: 
+1. **Clone the Repository**:
+2. **Navigate to the Project Directory**:
+3. **Install Dependencies**:
+4. **Start the Application**:
+
+
+## Contributing 🤝
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+## License 📄
+This project is licensed under the MIT License.
+
+## Acknowledgements 🙌
+Special thanks to all the contributors and the open-source community.
+
+
+
