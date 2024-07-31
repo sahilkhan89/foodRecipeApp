@@ -1,20 +1,20 @@
 # foodRecipeApp
-Project Description 🚀
+# Project Description 🚀
 "Food Recipe" is a mobile app built with React Native. fully functional & responsive food recipe app.
 
-Technologies Used 💻🛠️
+# Technologies Used 💻🛠️
 The Food Recipe App Mobile project is built using the following technologies:
 
 JavaScript
 React Native
 React Navigation (Navigation library for React Native)
 
-Features ✨🍔🍰
+# Features ✨🍔🍰
 Recipe discovery through search and categories
 Like, favorite recipes
 Smooth navigation with React Navigation
 
-Getting Started 🏁🚀
+# Getting Started 🏁🚀
 To set up the Food Recipe App Mobile project locally, follow these steps:
 
 Clone the repository from the provided link.
