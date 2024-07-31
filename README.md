@@ -10,6 +10,13 @@ The Food Recipe App Mobile project is built using the following technologies:
 - **React Native**
 - **React Navigation** (Navigation library for React Native)
 
+## Screenshots 📸
+
+<p align="center">
+  <img src="assets/screenshot1.png" alt="Screenshot 1" width="300" />
+  <img src="assets/screenshot2.png" alt="Screenshot 2" width="300" />
+</p>
+
 ## Features ✨🍔🍰
 - **Recipe Discovery**: Search and explore recipes through various categories.
 - **Favorites & Likes**: Mark your favorite recipes and like the ones you enjoy.
